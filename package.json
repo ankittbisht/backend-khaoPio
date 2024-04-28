@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chetannada/FoodFire-Server.git"
+    "url": "git+https://github.com/ankittbisht/backend-khaoPio.git"
   },
-  "author": "Chetan Nada",
+  "author": "Ankit Bisht",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chetannada/FoodFire-Server/issues"
-  },
-  "homepage": "https://github.com/chetannada/FoodFire-Server#readme",
+  
   "dependencies": {
     "cors": "^2.8.5",
     "cross-fetch": "^4.0.0",
